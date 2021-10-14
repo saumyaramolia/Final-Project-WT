@@ -1,0 +1,13 @@
+body{
+    background: linear-gradient(45deg, #0d1011 0% 20%, #163486);
+}
+
+#content{
+    color: azure;
+    
+}
+
+#content > .jumbotron{
+    background-color: #0d1011;
+    height: 75vh;
+}

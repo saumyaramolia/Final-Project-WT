@@ -91,3 +91,6 @@ function animate() {
 
 animate();
 
+// This is Ester Egg 
+console.log("This is the proof that this website is made by me. Saumya Ramolia")
+
